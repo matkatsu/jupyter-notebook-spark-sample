@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.idea/*
+metastore_db
+.vscode
+.DS_Store
+
+*.log
